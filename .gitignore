@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# dotenv
+.env
+.envrc
+*.env
+.env.*
+
+# other
+.ipynb_checkpoints/
+/data/
+/misc/
+.lsp/
