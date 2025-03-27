@@ -1,5 +1,7 @@
 # Jypyter Workspace Skeleton
 
+If you want to try Jupyter Notebook, just clone this repository!
+
 ## Getting started
 
 ### Install uv
@@ -16,3 +18,7 @@ For more information, see https://docs.astral.sh/uv/getting-started/installation
 ```sh
 uv sync
 ```
+
+### Install Jypyter (VSCode extension)
+
+https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter
